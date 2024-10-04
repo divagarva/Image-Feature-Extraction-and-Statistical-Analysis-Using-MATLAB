@@ -1,0 +1,2 @@
+# Image-Feature-Extraction-and-Statistical-Analysis-Using-MATLAB---A-Case-Study-on-Object-Detection-and-Edge-Detection
+ This MATLAB project involves image preprocessing, feature extraction, and statistical analysis. Key steps include converting images to grayscale, applying edge detection (Canny), and extracting features like object area and perimeter. The project concludes with statistical analysis and visual representation of results.
